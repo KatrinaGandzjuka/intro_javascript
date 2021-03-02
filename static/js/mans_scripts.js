@@ -1,8 +1,8 @@
-console.log("Viss strādā!");
-//alert("Hello!");
+console.log("Viss strādā!")
 alert("Māris!")
 
-let mainigais = "skola"
+let mainigaisTeksts = "skola"
 let mainigaisSkaitlis = 7
-console.log(mainigais)
+
+console.log(mainigaisTeksts)
 console.log(mainigaisSkaitlis)
